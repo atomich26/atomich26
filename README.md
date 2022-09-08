@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 📚 I'm currently studying Computer and Automation Engineering at <a href="https://www.univpm.it">Università Politecnica delle Marche</a>
 - 🔭 I’m currently working on Fidcards App. More info <a href="https://github.com/atomich26/fidcards-app-univpm">here</a>
 - 🌱 I’m currently learning <a href="https://kotlinlang.org" target="_blank">Kotlin</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">Javascript</a> and <a href="https://flutter.dev/" target="_blank">Flutter</a>
+<!--
 ### ⚡ My humble skills
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
@@ -28,3 +29,4 @@ Here are some ideas to get you started:
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kotlin_logo_2021.svg/512px-Kotlin_logo_2021.svg.png" alt="Koltin lang logo" title="Kotlin lang" width="250">
   </a>
   </p>
+-->
