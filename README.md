@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: send an email to michele.bev@outlook.com
 - 📚 I'm currently studying Computer and Automation Engineering at <a href="https://www.univpm.it">Università Politecnica delle Marche</a>
-- 🔭 I’m currently working on Fidcards App. More info <a href="https://github.com/atomich26/fidcards-app-univpm">here</a>
+- 🔭 I’m currently working on Intouch App. More info <a href="https://github.com/atomich26/fidcards-app-univpm">here</a>
 - 🌱 I’m currently learning <a href="https://kotlinlang.org" target="_blank">Kotlin</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">Javascript</a> and <a href="https://flutter.dev/" target="_blank">Flutter</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atomich26&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
